@@ -1,2 +1,2 @@
-# vite-typescript-scss-starter
+# vite-typescript-scss-template
 This is Vite / TypeScript / SCSS starter template.
